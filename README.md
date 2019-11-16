@@ -6,6 +6,7 @@ webpack4-react多页面模板
 
 # 使用
 
+- nodejs: v.10.12.0
 - 首字母小写的js作为entry
 - 样式一律用`scss`
 - config/index.js里选择入口

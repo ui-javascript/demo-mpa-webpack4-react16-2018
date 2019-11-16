@@ -1,13 +1,13 @@
 {
   "name": "react-multi-page-app",
   "version": "1.3.0",
-  "description": "eact multi page app ",
+  "description": "react-webpack4",
   "main": "index.js",
   "scripts": {
     "install:tyarn": "tyarn install",
     "remove": "rimraf node_modules",
     "dev": "webpack-dev-server --mode development --devtool inline-source-map --hot",
-    "server": "node server.js",
+    "server": "node server/server.js",
     "build:dist": "webpack --mode production"
   },
   "author": "leinov",

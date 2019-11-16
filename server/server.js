@@ -13,8 +13,8 @@ var port = "3118";
 //在浏览器中打开 下面执行
 const opn = require("opn");
 
-const config = require("./config")
-const getEntry = require("./build/get-entry");
+const config = require("../config")
+const getEntry = require("../build/get-entry");
 const entry = getEntry(config.system);
 
 //启动压缩
