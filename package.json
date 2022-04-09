@@ -79,7 +79,7 @@
     "md5": "^2.2.1",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-notifier": "^5.4.0",
     "normalize.css": "^8.0.1",
     "pdfkit": "^0.10.0",
