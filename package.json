@@ -65,7 +65,7 @@
     "echarts-gl": "^1.1.1",
     "echarts-liquidfill": "^2.0.5",
     "emotion": "^10.0.9",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "formik": "^1.5.8",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "fs": "^0.0.1-security",
